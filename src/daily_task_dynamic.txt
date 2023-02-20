@@ -1,0 +1,22 @@
+%greeting_start%
+
+%optional_failure_roast%
+
+%task_announcement%
+
+Deliver signal(s):
+    Level       Amount
+      %level%           %amount%
+
+Reward for delivering all required signals: %signal_reward%.
+
+Deliver telescope hash-code(s) of:
+    - %telescope_name%
+
+Reward for each hash-code: %hash_code_reward%.
+
+%additional_optional_failure_roast%
+
+%greeting_end%
+
+Dr. Bao

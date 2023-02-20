@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Hello Dr. Kel,",
+    "weight": 75
+  },
+  {
+    "text": "Dr. Kel,",
+    "weight": 75
+  },
+  {
+    "text": "Hello,",
+    "weight": 40
+  },
+  {
+    "text": "Hello there!",
+    "weight": 9
+  },
+  {
+    "text": "Yo bro waddup,",
+    "weight": 1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "You have failed to complete yesterday's report.",
+    "weight": 1
+  },
+  {
+    "text": "Yesterday's report was incomplete.",
+    "weight": 1
+  },
+  {
+    "text": "I am concerned about your failure with yesterday's report.",
+    "weight": 1
+  },
+  {
+    "text": "Apparently you have had issues with your prior task.",
+    "weight": 1
+  },
+  {
+    "text": "Why was yesterday's task incomplete?",
+    "weight": 1
+  },
+  {
+    "text": "Did you run into problems yesterday? Your report was incomplete.",
+    "weight": 1
+  },
+  {
+    "text": "Unfortunately I did not receive your full report.",
+    "weight": 1
+  }
+]

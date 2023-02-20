@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Here's your task for today:",
+    "weight": 1
+  },
+  {
+    "text": "Today's task is the following:",
+    "weight": 1
+  },
+  {
+    "text": "Complete this task today:",
+    "weight": 1
+  },
+  {
+    "text": "This is today's task:",
+    "weight": 1
+  },
+  {
+    "text": "I need the following from you today:",
+    "weight": 1
+  },
+  {
+    "text": "Here's today's job:",
+    "weight": 1
+  },
+  {
+    "text": "Here are the instructions for your day:",
+    "weight": 1
+  },
+  {
+    "text": "We need the this task completed today:",
+    "weight": 1
+  },
+  {
+    "text": "We need the following things from you today:",
+    "weight": 1
+  }
+]

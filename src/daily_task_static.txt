@@ -1,0 +1,33 @@
+// The "Good morning" greeting does not fit, as the daily task e-mail is sent at midnight.
+// The hash-codes are retrieved from the telescopes - not satellites. Calling them satellite dishes is not entirely incorrect though, but less common. SETI themselves call them telescopes.
+
+HEAD ---------------------------------------------------------------------------------------------------
+    Daily task (Day 7)
+--------------------------------------------------------------------------------------------------------
+
+BODY ---------------------------------------------------------------------------------------------------
+    Hello Dr. Kel,
+
+    your task for today is the following:
+
+    Deliver signal(s):
+        Level       Amount
+          0           x2
+          1           x3
+          2           x1
+          3           x2
+
+    Reward for delivering all required signals: 69.
+
+    Make a report including the hash-codes of the telescope(s):
+        - Mike
+        - Echo
+
+    Reward for each hash-code: 25.
+
+
+
+    Have a productive day,
+
+    Dr. Bao
+--------------------------------------------------------------------------------------------------------
