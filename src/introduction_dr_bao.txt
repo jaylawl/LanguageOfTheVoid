@@ -1,0 +1,37 @@
+HEAD ---------------------------------------------------------------------------------------------------
+    Regarding daily tasks
+--------------------------------------------------------------------------------------------------------
+
+BODY ---------------------------------------------------------------------------------------------------
+    Hello Dr. Kel,
+
+    I am Dr. Bao, and I will be assigning your daily tasks.
+
+    Among other things, the team on my end is responsible for evaluating signals.
+    We are reliant on you providing certain signals on a daily basis, in order for us to be able to do our jobs properly.
+
+    Thus, I will be requesting a specific amount of drives from you every day.
+    The requested drives may be anywhere ranging from processing level 0 to 3.
+    However, taking into consideration the limitations of your equipment, I will never request anything that you are unable to obtain.
+
+    In addition to that, you are required to deliver hash-codes from the telescopes servers.
+    To refresh your memory: hash-codes are (seemingly random) combinations of both letters and numbers.
+    You must obtain these on-site at the respective telescope terminals by using the command `sv.hash`.
+    Then, simply put the required hash-codes next to the telescope names on a piece of paper.
+
+    Write them down like this:
+
+        Foxtrot 2dmg40a
+        Uniform 7rkffca
+
+    Attach the paper to the lid of the drive box you are sending requested signals in.
+
+    Completing your tasks will result in a bonus for both the signals and the hash-codes.
+    Failure may result in penalties.
+
+
+
+    Best of luck with your first day on the job,
+
+    Dr. Bao
+--------------------------------------------------------------------------------------------------------
