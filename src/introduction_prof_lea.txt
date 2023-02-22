@@ -1,34 +1,40 @@
-Greetings Dr. Kel,
+HEAD ---------------------------------------------------------------------------------------------------
+    Regarding daily tasks
+--------------------------------------------------------------------------------------------------------
 
-welcome to your new job and our team!
+BODY ---------------------------------------------------------------------------------------------------
+    Greetings Dr. Kel,
 
-My name is Prof. Lea, and I am your direct supervisor.
+    welcome to your new job and our team!
 
-Since you've made it here, it's safe to assume that you've made it through the learning period.
-However, allow me to reiterate what your job is and what you have to do:
+    My name is Prof. Lea, and I am your direct supervisor.
 
-Your main responsibility is to scan space for anomalous signals.
-If possible, you should process the signals you find to improve their quality.
+    Since you've made it here, it's safe to assume that you've made it through the learning period.
+    However, allow me to reiterate what your job is and what you have to do:
 
-Store the signals you gathered on analogue drives and send them to us.
-For each drive sent to us, you will receive a respective reward.
-Signals that have been processed to a higher quality level will yield a greater reward.
-Your colleagues will request a specified set of drives from you on a daily basis.
+    Your main responsibility is to scan space for anomalous signals.
+    If possible, you should process the signals you find to improve their quality.
 
-During your work, you will have to perform maintenance on the both the servers inside the base and the servers of the telescope dishes.
-You may have to occasionally fix a server that encounters a problem and/or shuts down.
+    Store the signals you gathered on analogue drives and send them to us.
+    For each drive sent to us, you will receive a respective reward.
+    Signals that have been processed to a higher quality level will yield a greater reward.
+    Your colleagues will request a specified set of drives from you on a daily basis.
 
-In order to keep your workflow as high as possible, make sure to regularly check the calibrations of the telescopes.
-You may adjust the calibration of all telescope via the console terminal inside the base.
-However, if a telescope server is down, it can not be accessed remotely until it is fixed on site.
+    During your work, you will have to perform maintenance on the both the servers inside the base and the servers of the telescope dishes.
+    You may have to occasionally fix a server that encounters a problem and/or shuts down.
 
-I believe I have covered the essentials.
-Regarding the nuclear reactor: you don't need to worry about that. It's not currently implemented.
+    In order to keep your workflow as high as possible, make sure to regularly check the calibrations of the telescopes.
+    You may adjust the calibration of all telescope via the console terminal inside the base.
+    However, if a telescope server is down, it can not be accessed remotely until it is fixed on site.
 
-Gather the signals, process them, send them back to us for your reward, maintain the servers - and you'll be just fine.
+    I believe I have covered the essentials.
+    Regarding the nuclear reactor: you don't need to worry about that. It's not currently implemented.
+
+    Gather the signals, process them, send them back to us for your reward, maintain the servers - and you'll be just fine.
 
 
 
-Good luck!
+    Good luck!
 
-Prof. Lea
+    Prof. Lea
+--------------------------------------------------------------------------------------------------------
