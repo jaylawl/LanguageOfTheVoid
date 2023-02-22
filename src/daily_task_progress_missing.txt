@@ -1,0 +1,28 @@
+// My idea is to send this e-mail when the player sends a drive box, but not everything is there yet.
+// As things are (as of version 0.5.2), you will be immediately scolded by Dr. Bao for not delivering everything at once.
+// But, delivering everything at once may not be possible, due to the amount of drives requested being >8.
+
+HEAD ---------------------------------------------------------------------------------------------------
+    Task progress (Day 3)
+--------------------------------------------------------------------------------------------------------
+
+BODY ---------------------------------------------------------------------------------------------------
+    Hello Dr. Kel,
+
+    we received your package, but the contents do not complete your task.
+    Please see it that the following items are delivered within the day:
+
+    Missing signal(s):
+        Level       Amount
+          0           x1
+          1           x1
+
+    Missing telescope hash-code(s):
+        - Mike
+
+
+
+    Regards,
+
+    Dr. Bao
+--------------------------------------------------------------------------------------------------------

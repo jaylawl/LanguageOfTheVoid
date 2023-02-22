@@ -1,0 +1,25 @@
+// This e-mail is to be sent independently of "daily_task_progress_missing.txt", to give the player
+// a distinction between what is missing and what was wrong.
+
+HEAD ---------------------------------------------------------------------------------------------------
+    Invalid data (Day 3)
+--------------------------------------------------------------------------------------------------------
+
+BODY ---------------------------------------------------------------------------------------------------
+    Hello Dr. Kel,
+
+    I am unable to work with some of the hash-code data you sent today.
+    They appear to invalid - maybe you have made an error while copying them.
+
+    Ensure that you've got the correct hash-codes and send them to me.
+
+    Invalid telescope hash-code(s):
+        - Charlie
+        - Kilo
+
+
+
+    Regards,
+
+    Dr. Bao
+--------------------------------------------------------------------------------------------------------
