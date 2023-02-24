@@ -1,0 +1,113 @@
+- General
+    - Satellite -> Telescope
+
+- Laptop
+
+    - Upgrades
+        - Download_speed -> Download speed
+        - FIlter_size -> Filter size
+        - Server_stability -> Server stability
+        - Computer_power -> Computer power
+        - Ping_size -> Ping size
+        - Ping_speed -> Ping speed
+        - Sensor_speed -> Sensor speed
+        - Sensor_size -> Sensor size
+        - Computer_level -> Computer level
+
+    - Modules
+        - Server_alert -> Server alert
+
+    - Store
+        - Essentials
+            - Gas can -> Jerry can
+            - Server Repair Kit -> Server repair kit
+            - Camera [Bad] -> Camera (bad)
+            - Camera [Med] -> Camera (med)
+            - Camera [Good] -> Camera (good)
+            - Clipboard (12 pages) -> Notebook (12 pages)
+            - Paper sheet -> Sheet of paper
+        - Food
+            - Shrimps pack -> Shrimp pack
+            - meatball -> Meatball
+        - Machines
+            - Remote drone -> Drone
+            - "Kerfus" blue -> "Kerfus" (blue)
+            - "Kerfus" pink -> "Kerfus" (pink)
+            - "Kerfus" red -> "Kerfus" (red)
+        - Storage
+            - Bedside table -> Bedside drawer
+        - Deco
+            - Clocks -> Clock
+            - Wooden palete -> Wooden palette
+            - Cacti -> Cactus
+            - Pot (big cacti) -> Pot (big cactus)
+            - Tv (experimental) -> TV (experimental)
+            - Curtains (green) -> Greenscreen
+
+- Modules
+
+    - Downloading
+        - Screen
+            - Efficiency -> Download speed
+        - Button tooltips
+            - Save signal -> Transfer signal
+            - Reset -> Delete signal
+
+    - Playing
+        - Button tooltips
+            - Upload/extract -> Input/extract
+
+    - Processing
+        - Screen
+            - [UPLOAD DATA] -> [AWAITING DATA]
+            - Efficiency: -> Processing speed:
+        - Button tooltips
+            - Start process -> Start
+            - Upload/extract -> Input/extract
+
+- Items/Objects
+
+    - Arcade machine
+        - Main screen
+            - OBJECTION -> OBJECTIVE
+            - SHOOT THEM -> ENEMIES
+    - Toolbox
+        - Hover message
+            - Health: %d -> Usages: %d
+    - Battery
+        - Hover message
+            - Fuel: %d -> Charge: %d
+    - ATV
+        - Hover message
+            - Turbo - -> Shift - Turbo
+    - Clock
+        - Hover message
+            - Day%d -> Day %d
+    - Bed & Sleeping bag
+        - Popup messages
+            - I dont want to sleep -> I don't want to sleep
+    - Toilet
+        - Popup messages
+            - I dont want to use it right now -> I don't need to use it
+    - Food (general)
+        - Popup messages
+            - Im not hungry -> I'm not hungry
+
+- Terminals
+
+    - Command description box
+        - Write satellite calibration -> Print all telescope calibrations
+        - Calibrate satellite -> Calibrate telescope
+        - Calibrate all satellites -> Calibrate all telescopes
+        - Prints satellite hashcode -> Print telescope-server hashcode
+
+    - Command output
+        - "sv.target %server%"
+            - Pinging server %s -> Targeting server %s
+            - Server found -> Server targeted
+        - "sv.target reset"
+            - Server reset -> Target reset
+        - "sd.calch"
+            - Satellite precision [%d%] "%s_" -> Telescope precision "%s": [%d%]
+        - "sd.calall"
+            - Satellite found -> Server found
