@@ -69,8 +69,8 @@
 
     - Arcade machine
         - Main screen
-            - OBJECTION -> OBJECTIVE
-            - SHOOT THEM -> ENEMIES
+            - OBJECTION -> OBJECTIVE // Intentional; added by DrNose as Joel reference
+            - SHOOT THEM -> ENEMIES // Intentional; added by DrNose as Joel reference
     - Toolbox
         - Hover message
             - Health: %d -> Usages: %d
