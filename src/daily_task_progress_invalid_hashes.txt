@@ -9,7 +9,7 @@ BODY ---------------------------------------------------------------------------
     Hello Dr. Kel,
 
     I am unable to work with some of the hash-code data you sent today.
-    They appear to invalid - maybe you have made an error while copying them.
+    They appear to be invalid - maybe you have made an error while copying them.
 
     Ensure that you've got the correct hash-codes and send them to me.
 
